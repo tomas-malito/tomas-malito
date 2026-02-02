@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋 soy Tomás Abel Malito</h1>
 
 <p align="center">
-  Aprendiendo y estudiando para saber mas 
+  Aprendiendo y estudiando para saber mas ☺️
 </p>
 
 <p align="center">
@@ -46,19 +46,19 @@ Me considero una persona adaptable, curiosa y abierta a nuevas experiencias. Tuv
 
 ---
 
-## 📂 Proyectos destacados
+ 📂 Proyectos destacados
 
-### 🔧 Web para taller mecánico
+ 🔧 Web para taller mecánico
 Desarrollo de una página web para un taller mecánico, enfocada en presentación del servicio, contacto y visibilidad online.  
 🌐 https://mecanicaoliveraracing.fun/
 
-### 🗂️ Registro de ingresos internos
+ 🗂️ Registro de ingresos internos
 Sistema de registro interno para talleres, donde se cargan datos del vehículo como modelo, marca, año, kilómetros, fecha de ingreso y egreso, y descripción del trabajo realizado.  
 Proyecto orientado a resolver una necesidad real de gestión.
 
 ---
 
-## 📚 Formación complementaria
+ 📚 Formación complementaria
 
 - Curso de desarrollo web con HTML y CSS  
 - Introducción a redes  
@@ -66,7 +66,7 @@ Proyecto orientado a resolver una necesidad real de gestión.
 
 ---
 
-## 📫 Contacto
+ 📫 Contacto
 
 <p>
   <a href="https://www.linkedin.com/in/tom%C3%A1s-malito-2a6216222/">
