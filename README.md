@@ -12,18 +12,30 @@
 
 ## 👋 Sobre mí
 
-Soy estudiante de Analista de Sistemas en el Instituto Beltrán de Avellaneda, cursando el 2º año.
+Soy estudiante de **Analista de Sistemas** en el Instituto Beltrán de Avellaneda, actualmente cursando el **2º año**.
 
-Me apasiona convertir ideas en código y seguir creciendo dentro del mundo IT, con foco en desarrollo web y programación orientada a objetos.
+Me apasiona el desarrollo de software y la tecnología, especialmente el **desarrollo web** y la **programación orientada a objetos**.  
+Disfruto transformar ideas en soluciones funcionales y seguir creciendo dentro del mundo IT, tanto a nivel técnico como profesional.
 
 ---
 
 ## 🧠 Habilidades técnicas
 
-- **Lenguajes:** Java, JavaScript, HTML, CSS  
-- **Paradigmas:** Programación Orientada a Objetos  
-- **Herramientas:** Git, GitHub, VS Code  
-- **Metodologías:** trabajo en equipo, proyectos colaborativos  
+**Lenguajes**
+- Java
+- JavaScript
+- HTML
+- CSS
+
+**Conceptos**
+- Programación Orientada a Objetos (POO)
+- Lógica de programación
+- Buenas prácticas de código
+
+**Herramientas**
+- Git & GitHub
+- VS Code
+- Trabajo con proyectos académicos y personales
 
 <p>
   <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/java.png" width="50">
@@ -35,12 +47,21 @@ Me apasiona convertir ideas en código y seguir creciendo dentro del mundo IT, c
 
 ## 📂 Proyectos destacados
 
-### 🔧 Web Taller Mecánico
-Desarrollo de página web para taller mecánico.  
-👉 https://mecanicaoliveraracing.fun/
+### 🔧 Web para taller mecánico
+Desarrollo de una página web para un taller mecánico, enfocada en visibilidad, contacto y presentación del servicio.  
+🌐 https://mecanicaoliveraracing.fun/
 
 ### 🗂️ Registro de ingresos internos
-Sistema para registrar vehículos, modelo, marca, kilómetros, fecha de ingreso y egreso.
+Sistema para registrar vehículos con datos como modelo, marca, año, kilómetros, fecha de ingreso y egreso, y descripción del trabajo realizado.  
+Proyecto orientado a resolver una necesidad real de gestión interna.
+
+---
+
+## 📚 Formación complementaria
+
+- Curso de desarrollo web con HTML y CSS  
+- Introducción a redes  
+- Curso de Software Testing – Desde Cero  
 
 ---
 
@@ -56,5 +77,11 @@ Sistema para registrar vehículos, modelo, marca, kilómetros, fecha de ingreso 
   <a href="https://github.com/tomas-malito">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40">
   </a>
+</p>
+
+---
+
+<p align="center">
+  💻 En constante aprendizaje · 🚀 En búsqueda de oportunidades IT
 </p>
 
