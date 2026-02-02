@@ -21,10 +21,10 @@ Me considero una persona adaptable, curiosa y abierta a nuevas experiencias. Tuv
 
 ### Lenguajes
 <p>
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/java.png" width="45" alt="Java">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/js.png" width="45" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/html.png" width="45" alt="HTML">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/css.png" width="45" alt="CSS">
+- JAVA  
+- JAVA SCRIPT
+- HTML
+- CSS
 </p>
 
 ### Conceptos
