@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/IMG_20250312_142418438_HDR.jpg" width="180" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/IMG_20250312_142418438_HDR.jpg" width="180" style="border-radius:50%"> 
 </p>
 
 ---
