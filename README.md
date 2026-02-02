@@ -31,11 +31,7 @@ Me considero una persona adaptable, curiosa y abierta a nuevas experiencias. Tuv
 - Buenas prácticas de código
 
 ### Herramientas
-<p>
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/git.png" width="45" alt="Git">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/github.png" width="45" alt="GitHub">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/vscode.png" width="45" alt="VS Code">
-</p>
+
 
 <p>
   Trabajo con proyectos académicos y personales, aplicando control de versiones y organización del código.
@@ -45,7 +41,7 @@ Me considero una persona adaptable, curiosa y abierta a nuevas experiencias. Tuv
 
  📂 Proyectos destacados
 
- 🔧 Web para taller mecánico
+ 🔧 Web taller mecánico
 Desarrollo de una página web para un taller mecánico, enfocada en presentación del servicio, contacto y visibilidad online.  
 🌐 https://mecanicaoliveraracing.fun/
 
