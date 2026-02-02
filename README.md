@@ -70,20 +70,18 @@ Proyecto orientado a resolver una necesidad real de gestión.
 
 <p>
   <a href="https://www.linkedin.com/in/tom%C3%A1s-malito-2a6216222/">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" style="margin: 0 10px;">
   </a>
-  
+
   <a href="https://instagram.com/tomass.malito/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40">
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" style="margin: 0 10px;">
   </a>
-  
+
   <a href="https://github.com/tomas-malito">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40">
-    
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" style="margin: 0 10px;">
   </a>
-  
 </p>
+
 
 ---
 
