@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Tomás Abel Malito</h1>
+<h1 align="center">Hola👋 soy Tomás Abel Malito</h1>
 
 <p align="center">
-  Estudiante de Analista de Sistemas · Desarrollo web · IT
+  Aprendiendo y estudiando para saber mas 
 </p>
 
 <p align="center">
@@ -12,10 +12,9 @@
 
 ## 👋 Sobre mí
 
-Soy estudiante de **Analista de Sistemas** en el Instituto Beltrán de Avellaneda, actualmente cursando el **2º año**.
+Soy estudiante de Análisis de Sistemas, con interés en el mundo de la tecnología y los sistemas de información. Actualmente me estoy formando en análisis funcional y procesos, con ganas de aprender, enfrentar nuevos desafíos y seguir creciendo profesionalmente.
 
-Me apasiona el desarrollo de software y la tecnología, con especial interés en el **desarrollo web** y la **programación orientada a objetos**.  
-Me enfoco en transformar ideas en soluciones funcionales, aprender de forma constante y crecer profesionalmente dentro del mundo IT.
+Me considero una persona adaptable, curiosa y abierta a nuevas experiencias. Tuve la oportunidad de vivir un año en Australia, donde conocí distintas culturas y formas de trabajo, lo que me permitió ampliar mi mirada sobre la tecnología y su impacto en diferentes contextos.
 
 ---
 
