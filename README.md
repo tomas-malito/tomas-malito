@@ -1,299 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/IMG_20250312_142418438_HDR.jpg">
-    <title>Portfolio  🔥</title>
+<h1 align="center">🚀 Tomás Abel Malito</h1>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="estilos.css">
+<p align="center">
+  Estudiante de Analista de Sistemas · Desarrollo web · IT
+</p>
 
-</head>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/IMG_20250312_142418438_HDR.jpg" width="180" style="border-radius:50%">
+</p>
 
-<style>
-   
-</style>
+---
 
-<body>
-    <header>
-        <h3>✅ Tomas Abel Malito</h3>
-    </header>
-    <section class="uno">
-        <div class="caja-central">
-            <div class="caja-cara">
-                <img class="cara" src="/IMG_20250312_142418438_HDR.jpg" alt="Maxi Programa">            
-            </div>
-            <div class="caja-presentacion">
-                <div>    
-                    <h1> 🚀 ¡Bienvenido a mi portfolio!</h1>
-                    <p class="presentacion">
-                       
-Soy Tomas.
-Me apasiona convertir ideas en código y acá vas a encontrar los proyectos que desarrollé, mis habilidades técnicas y el camino que estoy recorriendo en el mundo IT.
-                         
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="dos">
-        <h2>Sobre mí</h2>
-        <p>
-           Soy estudiante de Analista de Sistemas en el Instituto Beltrán de Avellaneda, actualmente cursando el 2º año de la carrera.
+## 👋 Sobre mí
 
-Me apasiona el desarrollo de software y la tecnología, con especial interés en el desarrollo web y la programación orientada a objetos. 
-<br>
-🚀 Habilidades técnicas
+Soy estudiante de Analista de Sistemas en el Instituto Beltrán de Avellaneda, cursando el 2º año.
 
-Lenguajes de programación: Java, JavaScript, HTML, CSS
-Paradigmas: Programación Orientada a Objetos (POO)
-Frameworks y herramientas: (acá podés agregar Bootstrap, React, Spring o lo que uses)
-Metodologías de trabajo: desarrollo en equipo, proyectos colaborativos
+Me apasiona convertir ideas en código y seguir creciendo dentro del mundo IT, con foco en desarrollo web y programación orientada a objetos.
 
-<br>
+---
 
-📂 Experiencia en proyectos
-Desarrollo de sitios web en equipo e individuales, aplicando JavaScript y CSS para la parte visual y lógica.
-Creación de proyectos académicos utilizando Java con enfoque en POO.
-        </p>
+## 🧠 Habilidades técnicas
 
-        <h2>Aptitudes</h2>
-        <p>
-            Estas son algunas de las tecnologías de las que tengo conocimientos.
-        </p>
-        <div class="aptitudes">
-            <div class="tech-list">
-                <img src="/java.png" class="tech" alt="">
-                <img src="/js.png" class="tech" alt="">
-                <img src="/css.png" class="tech" alt="">
-            </div>
-           
-        </div>
-        <h2>Cursos realizados</h2>
-        <ul>
-            <li>Curso de desarollo web con HTML </li>
-            <li>Introduccion a redes</li>
-            <li>Curso de Software Testing [Desde Cero]</li>
-      
-        </ul>
-    </section>
-    <section class="tres">
-        <h2>Mis Proyectos</h2>
-        <div class="proyectos">
-            <div class="card">
-                <h3>Web Taller Mecanico</h3>
-                <img src="/TALLER MECANICO.png" alt="mecanicaoliveraracing.fun">
-                <p>
-                   Desarrollo pagina web, para taller mecanico.
-                </p>
-                <a href="https://mecanicaoliveraracing.fun/" target="_blank">Ver</a>
-            </div>
-            <div class="card">
-                <h3>Creacion de registro de ingresos interno </h3>
-                <img src="https://i.ytimg.com/vi/8ANRCYtveMI/maxresdefault.jpg" alt="Maxi Programa en YouTube">
-                <p>
-                    Registro de ingresos internos para taller mecanico, se registra el vehiculo con su modelo, ano, marca, kilometros,   dia de entrada <br>
-                    dia de salida y descripcion del arreglo.
-                </p>
-                <a href="https://youtube.com/maxiprograma" target="_blank">Ver</a>
-            </div>
-            <div class="card">
-                <h3>Campus Virtual</h3>
-                <img src="https://i.ytimg.com/vi/IVhJFByTQBA/maxresdefault.jpg" alt="Campus Virtual Maxi Programa">
-                <p>
-                    Mi plataforma de cursos, donde podrás hacer el MEJOR curso de programación desde cero y GRATIS.
-                </p>
-                <a href="https://campusmaxiprograma.com" target="_blank">Ver</a>
-            </div>
-        </div>
-    </section>
-    <footer>
-        <h2>Contactame</h2>
-            <div class="contacto">
-                <a href="https://www.linkedin.com/in/tom%C3%A1s-malito-2a6216222/?profileId=ACoAADfqsx4BPtG6tArJ_dc4Wty6H99afZCO4BA" target="_blank">
-                    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" class="red-social" alt="">
-                </a>
-                <hr>
-                <a href="https://instagram.com/tomass.malito/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" class="red-social" alt="">
-                </a>
-                <hr>
-                <a href="https://github.com/tomas-malito" target="_blank">
-                    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" class="red-social" alt="">
-                </a>
-            </div>
-           
-    </footer>
-</body>
-</html>
+- **Lenguajes:** Java, JavaScript, HTML, CSS  
+- **Paradigmas:** Programación Orientada a Objetos  
+- **Herramientas:** Git, GitHub, VS Code  
+- **Metodologías:** trabajo en equipo, proyectos colaborativos  
 
-body{
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
-}
-header{
-    height: 65px;
-    background-color: #7b1fa2;
-    color: white;
-    display: flex;
-    align-items: center;
-    padding-left: 25px;
-}
-.cara{
-    border-radius: 500px;
-    height: 200px;
-}
-.uno{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    height: calc(100vh - 65px);
-    background-color: #303030;
-    color: white;
-    /* padding-top: 10%; */
-}
-.caja-central{
-    margin-top: 10%;
-    width: 50%;
-    display: flex;
-    flex-direction: row;
-    border-radius: 20px;
-    overflow: hidden;
-    height: 50%;
-}
-.caja-cara{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 40%;
-    background-color: #424242;
-}
-.caja-presentacion{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 60%;
-    background-color: #F2F2F2;
-    color: #303030;
-    padding: 10px;
-}
+<p>
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/java.png" width="50">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/js.png" width="50">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/css.png" width="50">
+</p>
 
-.dos{
-    background-color: #F2F2F2;
-    height: 700px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: #303030;
-    padding-left: 20%;
-    padding-right: 20%;
-}
-.aptitudes{
-    width: 50%;
-}
-.tech-list{
-    display: flex;
-    justify-content: space-between;
-    padding-top: 10px;
-}
+---
 
-.tech{
-    height: 90px;
-}
+## 📂 Proyectos destacados
 
-.tres{
-    background-color: #303030;
-    height: 600px;
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-    align-items: center;
-    color: #F2F2F2;
-}
-.proyectos{
-    width: 60%;
-    display: flex;
-    justify-content: space-between;
-}
-.card{
-    text-align: center;
-    width: 30%;
-    border: solid #F2F2F2 1px;
-    border-radius: 10px;
-    padding: 10px;
-}
-.card img{
-    width: 100%;
-}
-.card a, footer a {
-    color: white;
-}
+### 🔧 Web Taller Mecánico
+Desarrollo de página web para taller mecánico.  
+👉 https://mecanicaoliveraracing.fun/
 
-.red-social{
-    height: 60px;
-    background-color: #F2F2F2;
-    border-radius: 10px;
-}
+### 🗂️ Registro de ingresos internos
+Sistema para registrar vehículos, modelo, marca, kilómetros, fecha de ingreso y egreso.
 
-footer{
-    background-color: #424242;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    color: #F2F2F2;
-    height: 250px;
-}
-.contacto{
-    width: 30%;
-    display: flex;
-    justify-content: center;
-}
+---
 
-@media (max-width: 1000px) {
-    .caja-central{
-        width: 90%;
-        height: 70%;
-        flex-direction: column;
-    }
-    .caja-cara{
-        width: 100%;
-        height: 50%;
-    }
-    .caja-presentacion{
-        width: 100%;
-        height: 50%;
-        align-items: flex-start;
-    }
-    .aptitudes{
-        width: auto;
-    }
-    .dos{
-        height: auto;
-        padding: 0 10px 10px 10px;
+## 📫 Contacto
 
-    }
-    .tres{
-        height: auto;
-    }
-    .proyectos{
-        flex-direction: column;
-        width: 100%;
-        align-items: center;
-        justify-content: space-between;
-        padding-bottom: 20px;
-    }
-    .card{
-        width: 80%;
-        margin-top: 20px;
-    }
-    .red-social{
-        margin: 0 10px 0 10px;
-    }
-}
+<p>
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-malito-2a6216222/">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40">
+  </a>
+  <a href="https://instagram.com/tomass.malito/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40">
+  </a>
+  <a href="https://github.com/tomas-malito">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40">
+  </a>
+</p>
+
