@@ -14,33 +14,35 @@
 
 Soy estudiante de **Analista de Sistemas** en el Instituto Beltrán de Avellaneda, actualmente cursando el **2º año**.
 
-Me apasiona el desarrollo de software y la tecnología, especialmente el **desarrollo web** y la **programación orientada a objetos**.  
-Disfruto transformar ideas en soluciones funcionales y seguir creciendo dentro del mundo IT, tanto a nivel técnico como profesional.
+Me apasiona el desarrollo de software y la tecnología, con especial interés en el **desarrollo web** y la **programación orientada a objetos**.  
+Me enfoco en transformar ideas en soluciones funcionales, aprender de forma constante y crecer profesionalmente dentro del mundo IT.
 
 ---
 
 ## 🧠 Habilidades técnicas
 
-**Lenguajes**
-- Java
-- JavaScript
-- HTML
-- CSS
+### Lenguajes
+<p>
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/java.png" width="45" alt="Java">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/js.png" width="45" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/html.png" width="45" alt="HTML">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/css.png" width="45" alt="CSS">
+</p>
 
-**Conceptos**
+### Conceptos
 - Programación Orientada a Objetos (POO)
 - Lógica de programación
 - Buenas prácticas de código
 
-**Herramientas**
-- Git & GitHub
-- VS Code
-- Trabajo con proyectos académicos y personales
+### Herramientas
+<p>
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/git.png" width="45" alt="Git">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/github.png" width="45" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/vscode.png" width="45" alt="VS Code">
+</p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/java.png" width="50">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/js.png" width="50">
-  <img src="https://raw.githubusercontent.com/tomas-malito/tomas-malito/main/css.png" width="50">
+  Trabajo con proyectos académicos y personales, aplicando control de versiones y organización del código.
 </p>
 
 ---
@@ -48,12 +50,12 @@ Disfruto transformar ideas en soluciones funcionales y seguir creciendo dentro d
 ## 📂 Proyectos destacados
 
 ### 🔧 Web para taller mecánico
-Desarrollo de una página web para un taller mecánico, enfocada en visibilidad, contacto y presentación del servicio.  
+Desarrollo de una página web para un taller mecánico, enfocada en presentación del servicio, contacto y visibilidad online.  
 🌐 https://mecanicaoliveraracing.fun/
 
 ### 🗂️ Registro de ingresos internos
-Sistema para registrar vehículos con datos como modelo, marca, año, kilómetros, fecha de ingreso y egreso, y descripción del trabajo realizado.  
-Proyecto orientado a resolver una necesidad real de gestión interna.
+Sistema de registro interno para talleres, donde se cargan datos del vehículo como modelo, marca, año, kilómetros, fecha de ingreso y egreso, y descripción del trabajo realizado.  
+Proyecto orientado a resolver una necesidad real de gestión.
 
 ---
 
