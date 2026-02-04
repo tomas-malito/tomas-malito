@@ -61,7 +61,7 @@ Sistema de gestión para talleres:
 - Descripción del trabajo
 
 Proyecto pensado para resolver una necesidad real de gestión.
-
+ 🌐 **Sitio:** https://tomas-malito.github.io/tomas-malitoregistro-taller-mecanico.github.io/
 ---
 
 ## 📚 Formación complementaria
