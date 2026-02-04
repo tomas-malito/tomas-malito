@@ -49,7 +49,7 @@ Viví un año en **Australia**, experiencia que me permitió conocer otras forma
 ### 🔧 Web – Taller mecánico
 Página web orientada a visibilidad online y contacto con clientes.
 
-🌐 **Sitio:** https://mecanicaoliveraracing.fun/
+🌐 **Sitio:** https://tomas-malito.github.io/
 
 ---
 
