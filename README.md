@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=tomas-malito&color=blue&style=flat-square&label=Visitas">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Análisis+de+Sistemas;Interesado+en+IT+%26+QA;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👤 Sobre mí
@@ -47,9 +51,12 @@ Viví un año en 🇦🇺 **Australia**, experiencia que me permitió conocer ot
 ---
 
 ## 🌱 Actualmente aprendiendo
-- Software Testing / QA manual
-- SQL y bases de datos
-- Análisis funcional
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Testing-QA%20Manual-informational?style=flat-square&logo=testinglibrary&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Bases%20de%20datos-orange?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Análisis-Funcional-9cf?style=flat-square">
+</p>
 
 ---
 
@@ -60,12 +67,21 @@ Viví un año en 🇦🇺 **Australia**, experiencia que me permitió conocer ot
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-malito&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomas-malito&theme=github-compact&hide_border=true&area=true" />
+</p>
+
 ---
 
 ## 📂 Proyectos destacados
 
 ### 🔧 Web – Taller mecánico
 Página web orientada a visibilidad online y contacto con clientes.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
 
 🌐 **Sitio:** https://tomas-malito.github.io/
 
@@ -79,6 +95,12 @@ Sistema de gestión para talleres:
 - Descripción del trabajo
 
 Proyecto pensado para resolver una necesidad real de gestión.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
 
 🌐 **Sitio:** https://tomas-malito.github.io/tomas-malitoregistro-taller-mecanico.github.io/
 
@@ -115,5 +137,3 @@ Proyecto pensado para resolver una necesidad real de gestión.
 <p align="center">
   💻 En constante aprendizaje · 🚀 En búsqueda de oportunidades IT
 </p>
-
-
